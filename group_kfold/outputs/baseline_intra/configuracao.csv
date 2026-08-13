@@ -1,0 +1,2 @@
+estrategia_validacao;k_folds;selecao;alvo;classe_positiva;modelos;turno;estagio;semente
+GroupKFold (grupo = bloco), leave-one-block-out;4;top5 VIP do proprio genotipo no dia (q_FDR<=0,05);condicao;NIRRIG;PLS-DA, RandomForest;manha;normalizado;42

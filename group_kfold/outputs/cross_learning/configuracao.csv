@@ -1,0 +1,2 @@
+estrategia_validacao;k_folds_por_dia;selecao;alvo;classe_positiva;modelos;turno;estagio;semente;total_folds
+GroupKFold (grupo = genotipo), leave-one-genotype-out;3;representantes Spearman + q_FDR<=0,05 + top5 VIP (PLS-DA);condicao;NIRRIG;PLS-DA, RandomForest;manha;normalizado;42;42
